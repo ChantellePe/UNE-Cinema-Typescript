@@ -61,6 +61,7 @@ body {
   
   .theater {
     display: flex;
+    
     flex-direction: column;
     width: auto;
     max-width: 1000px;
@@ -85,6 +86,7 @@ body {
   
   .seat-map {
     display: flex;
+    align-items: center;
     flex-direction: column;
     row-gap: 0.5rem;
   }
